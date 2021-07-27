@@ -1,0 +1,101 @@
+/* NavBar */
+
+.navbar {
+    /* Attaccato a destra */
+    position: absolute!important;
+    /* Quanto distaccato da destra */
+    right: 20px;
+}
+
+
+/* Elementi NavBar */
+
+.nav-link {
+    /* Togliere sottolineatura */
+    text-decoration: none!important;
+    /* Colore */
+    color: #E57715!important;
+    /* Dimensione */
+    font-size: 20px;
+    /* Grassetto */
+    font-weight: bold;
+}
+
+
+/* Immagine in alto */
+
+.sfondo {
+    /* Larghezza al 100% */
+    width: 100%;
+    max-height: 650px;
+}
+
+
+/* Elementi NavBar */
+
+.intro {
+    /* carattere Obliquo */
+    font-style: oblique;
+    /* Posizione Centrato */
+    text-align: center;
+    /* Dimensione */
+    font-size: 30px;
+    /* Font */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Titoli paragrafi */
+
+h2 {
+    /* Posizione Centrato */
+    text-align: center;
+}
+
+
+/* Foto Profilo */
+
+.fotoprofilo {
+    /* Larghezza al 100%*/
+    width: 100%;
+    /* Larghezza automatica */
+    height: auto;
+}
+
+
+/* Grid progetti */
+
+.project {
+    /* Posizione Centrato */
+    text-align: center;
+}
+
+
+/* Link progetti */
+
+.projects {
+    /* Colore */
+    color: black!important;
+    /* Dimensione */
+    font-size: 25px;
+}
+
+
+/* Contact */
+
+.contact {
+    /* Posizione Centrato */
+    text-align: center;
+}
+
+
+/* Icon */
+
+.icon {
+    /* Larghezza */
+    width: 50px!important;
+    /* Lunghezza */
+    height: 50px!important;
+    /* Posizione Centrato */
+    text-align: center;
+}
